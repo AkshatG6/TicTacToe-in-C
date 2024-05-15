@@ -11,11 +11,3 @@ This is a simple command-line Tic-Tac-Toe game implemented in C. It utilizes the
 ## Prerequisites
 
 Ensure you have a C compiler installed on your system, such as GCC or Clang.
-
-## Getting Started
-
-To get started with this project, clone this repository and compile the game.
-
-```bash
-git clone https://github.com/yourusername/tictactoe.git
-cd tictactoe
